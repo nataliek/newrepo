@@ -1,0 +1,1 @@
+hello this is my readme file. Testing git on rstudio, not liking it very much
